@@ -99,7 +99,7 @@
 
 ## Borrelvragen
 Verzin je eigen puntentelling:
-
+```
 type alias Object =
     { id : ObjectId
     , title : Maybe String
@@ -119,7 +119,7 @@ type alias Object =
 
 Smart constructor
 mkObject : ReceivedObject -> Object
-
+```
 
 ## extensible records
  - Records: https://elm-lang.org/docs/advanced-topics
