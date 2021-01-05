@@ -132,3 +132,11 @@ mkObject : ReceivedObject -> Object
    - Product of Sums en Sums of Products
      - Karnaugh Map
      - https://en.wikipedia.org/wiki/Algebraic_normal_form
+# These
+
+`These` niet als vervanger van Either/Result/Maybe/Optional, juist door combineren.   
+Het is een middel om het data- en controle pad te ontvlechten.  Het bied een opening tot het verleggen van het spoor bij railway oriented programming met Maybe's en Eithers. 
+
+## Uitbreidingen?
+- Heterogene lijsten
+- (T)here
